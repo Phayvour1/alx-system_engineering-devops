@@ -1,1 +1,1 @@
-11-binary_to_decimal
+12-combinations: script that prints all possible combinations of two letters, except oo
